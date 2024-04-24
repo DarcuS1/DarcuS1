@@ -14,7 +14,7 @@ ready to make an impact in the world of technology</p>
     <h2>🌐 Connect with Me</h2>
     <p>To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!</p>
     <div align="center">
-        <a href="https://www.linkedin.com/in/zane-pearton](https://www.linkedin.com/in/samueljosan">
+        <a href="https://www.linkedin.com/in/samueljosan">
             <img src="https://img.shields.io/badge/Samuel-Josan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
     </div>
