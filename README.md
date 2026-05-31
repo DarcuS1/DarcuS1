@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <!-- <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Computer Science and Engineering Student, driven by innovation and problem-solving, I'm 
+    <p>I'm a Computer Science and Engineering Graduate, driven by innovation and problem-solving, I'm 
 ready to make an impact in the world of technology</p>
 </div>
 
