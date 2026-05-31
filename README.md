@@ -69,7 +69,7 @@ ready to make an impact in the world of technology</p>
             <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 15px;" alt="React Icon">
             <div>
                 <strong>FootwearRedux - E-commerce Website (Spring Boot, PostgreSQL, React)</strong>:
-                Collaboratively built this full-stack e-commerce platform utilizing modern technologies. Led the frontend development using React with Vite, and spearheaded the design and implementation of RESTful APIs for both frontend and backend functionalities while actively contributing to backend functionalities with Spring Boot and ensuring seamless integration with the PostgreSQL database. Fostered effective team communication and problem-solving to deliver a user-centric experience, leveraging the collaborative capabilities of the Git platform. Successfully deployed the project at <a href="josanpro.site">josanpro.site</a> using Railway (backend/database) and Netlify (frontend).
+                Collaboratively built this full-stack e-commerce platform utilizing modern technologies. Led the frontend development using React with Vite, and spearheaded the design and implementation of RESTful APIs for both frontend and backend functionalities while actively contributing to backend functionalities with Spring Boot and ensuring seamless integration with the PostgreSQL database. Fostered effective team communication and problem-solving to deliver a user-centric experience, leveraging the collaborative capabilities of the Git platform. Successfully deployed the project using Railway (backend/database) and Netlify (frontend).
             </div>
         </div>
     </div>
