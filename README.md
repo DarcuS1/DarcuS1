@@ -80,7 +80,7 @@ ready to make an impact in the world of technology</p>
             <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right: 15px;" alt="React Icon">
             <div>
                 <strong>SpotiStat (Spring Boot, React)</strong>:
-                A unique project that replicates the popular Spotify Wrapped experience. Built using Spring Boot for the backend and React for the frontend, this application allows users to visualize their annual listening statistics in an engaging way. The main challenge was integrating with the Spotify API and processing the data to generate insightful visualizations. This project showcases my skills in API integration, data processing, and creating interactive user experiences. Deployed at <a href="spoti-stat.netlify.app">spoti-stat.netlify.app</a>.
+                A unique project that replicates the popular Spotify Wrapped experience. Built using Spring Boot for the backend and React for the frontend, this application allows users to visualize their annual listening statistics in an engaging way. The main challenge was integrating with the Spotify API and processing the data to generate insightful visualizations. This project showcases my skills in API integration, data processing, and creating interactive user experiences.
             </div>
         </div>
     </div>
